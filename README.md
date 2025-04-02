@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
-I am a backend engineer with focus on Java and Spring Framework.
-Currently I am learning React and containerization tools - Docker and Kubernetes to expand my knowledge.
+I am a backend software engineer with focus on Java and Spring Framework.
+Currently I am learning Python, Docker and Kubernetes to expand my knowledge.
 
 Learn more about me:
 
